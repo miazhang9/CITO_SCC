@@ -1,0 +1,10 @@
+Classes 192 and 195 are similar classes. 
+Classes 130, 144, 145, 154, 162, and 163 are similar classes. 
+Classes 131, 132, 133, and 150 are similar classes. 
+Classes 36 and 38 are similar classes. 
+Classes 71, 77, 78, 79, 80, 81, and 82 are similar classes. 
+Classes 173, 174, and 175 are similar classes. 
+Classes 215, 216, 217, 218, and 220 are similar classes. 
+Classes 155 and 158 are similar classes. 
+Classes 190, 193 and 194 are similar classes. 
+Classes 134, 135, 136, 139, 140, 141, 142, 143, 147, 149, 151, 152, 156, 159 and 160 are similar classes. 
