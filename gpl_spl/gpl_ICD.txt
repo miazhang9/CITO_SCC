@@ -1,0 +1,6 @@
+Classes 35 and 38 are similar classes.
+Classes 166, 167, 168, 169, and 170 are similar classes. 
+Classes 171, 172, 173, and 174 are similar classes. 
+Classes 53, 56, 58, 61, 62, 63, 64, and 65 are similar classes. 
+Classes 149 and 150 are similar classes. 
+Classes 127, 131, and 132 are similar classes. 
